@@ -13,7 +13,7 @@ $color-warning:           #FFB62F;
 $font-family-primary:     Roboto, 'Open Sans', Helvetica Neue, sans-serif;
 $font-family-secondary:   Georgia, Times New Roman, serif;
 $font-family-monospace:   Menlo, Monaco, Consolas, monospace;
-$font-family:             $font-family-primary;
+$font-family:             $font-family-primary; // variables in variables
 
 $font-size-base:          14px;
 $font-size-large:         18px;
